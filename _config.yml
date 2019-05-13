@@ -21,7 +21,7 @@ github_username:  laklau
 
 markdown: kramdown
 
-#theme: agency-jekyll-theme #The "agency-jekyll-theme" is not supported by GitHub Pages. 
+theme: agency-jekyll-theme #The "agency-jekyll-theme" is not supported by GitHub Pages. 
 
 gems:
   - jekyll-feed
