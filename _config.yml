@@ -7,6 +7,11 @@ keywords: "your keywords, separated by commas"
 skills: "Cold Forming - Deep Draw - Stamping"
 meta_author: Gaurav Nanda
 
+collections:
+    services:
+        output: true
+        permalink: /services/:title/
+
 # Google webmaster tools
 google_verify:
 
