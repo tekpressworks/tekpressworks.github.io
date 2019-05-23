@@ -3,5 +3,5 @@ layout: default
 modal-id: 3
 img: 450Ton.jpg
 alt: image-alt
-description: Biggest machine we've got
+description: Big ass machine
 ---
