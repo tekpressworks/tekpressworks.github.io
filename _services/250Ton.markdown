@@ -1,7 +1,0 @@
----
-layout: default
-modal-id: 2
-img: 250Ton.jpg
-alt: image-alt
-description: Mid level machine
----
