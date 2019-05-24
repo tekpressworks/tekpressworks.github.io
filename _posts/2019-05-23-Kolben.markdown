@@ -3,5 +3,5 @@ layout: default
 modal-id: 4
 img: Kolben.jpg
 alt: image-alt
-description: Pinion Pin for a Railway coach break assembly, made of 6.5 mm thick material. Being supplied to the Indian Railways.
+description: Pinion Pin for a Railway coach brake assembly, made of 6.5 mm thick material. Being supplied to the Indian Railways.
 ---
